@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "freertosconfig.h": "c",
+        "multicore.h": "c",
+        "stdlib.h": "c",
+        "pio_instructions.h": "c",
+        "tusb.h": "c",
+        "blink.pio.h": "c",
+        "tusb_config.h": "c",
+        "malloc.h": "c",
+        "pico.h": "c",
+        "mem_ops.h": "c",
+        "types.h": "c"
+    }
+}
